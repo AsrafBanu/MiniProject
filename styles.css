@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #FFCD9E;
+}
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #333;
+}
+
+.content {
+    max-width: 500px;
+    margin-left: 30px;
+}
+
+h1 {
+    font-family: Inter;
+    font-size: 36px;
+  
+    line-height: 54px;
+    text-align: left;
+    width: 562px;
+    height: 108px;
+
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+
+
+
+
+.showme {
+
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: left;
+    margin-top: 50px;
+        
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items:  flex-start; 
+    flex-wrap: wrap; 
+    padding: 10px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+
+.email-signup input {
+    width: 280px;
+    height: 20px;
+    border-radius: 8px;
+    border: 4px;
+    opacity: 0px;
+
+    margin-top: 20px;
+    
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 4px solid #000000;
+}
+
+.email-signup button {
+    padding: 10px 20px;
+    height: 45px;
+    width: 156px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.email-signup button:hover {
+    background-color: #555;
+}
+
+.free-text {
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 30px;
+  
+   
+}
+
+.image {
+    max-width: 300px;
+    margin-left: 200px;
+}
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
+.social-links a {
+    display: inline-block;
+}
+
+.social-links img {
+    width: 20px;
+    height: 20px;
+}
+
+.lis {
+    text-align: left;
+    list-style-type: none; 
+    padding: 0; 
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 216px;
+height: 36px;
+
+}
+
+.lis li {
+    display: block;
+    margin-bottom: 15px; 
+}
+
+.rightinfo {
+    text-align: right;
+    margin-right: 150px;
+    margin-top: 30px;
+
+}
+
+.our{
+    width: 495px;
+    height: 81px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;   
+
+}
+
+.hello{
+
+margin-top: 30px;
+}
